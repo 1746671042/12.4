@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background-color: #00E3E3;
+}
+canvas{
+	display: block;
+    margin:50px auto ;
+    box-shadow:  -2px -2px 2px #efefef,5px 5px 5px #e9e9e9;
+}
